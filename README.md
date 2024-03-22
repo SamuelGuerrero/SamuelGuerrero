@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelGuerrero
 <p align="center">
-  <img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/bb620329-4b1a-480a-9aef-54bb7c5cbca1" alt="C" width="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/bb620329-4b1a-480a-9aef-54bb7c5cbca1" alt="C" width="150" style="border-radius: 50%;"/>
 </p>
 
 
