@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SamuelGuerrero
-<p align="center">
-  <img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/bb620329-4b1a-480a-9aef-54bb7c5cbca1" alt="C" width="150" style="border-radius: 50%;"/>
-</p>
 
+<img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/bb620329-4b1a-480a-9aef-54bb7c5cbca1" alt="C" width="150" style="border-radius: 50%;"/>
 
 - 👀 I’m interested in Code, Football (Cruz Azul, Real Madrid), Music (Indie, Psicodelic Rock, Rock), Classic Cinema, Series.
 - 🌱 I’m currently learning Web Development and Machine Learning (Artificial Vision).
