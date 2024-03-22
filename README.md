@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Web Development and Machine Learning (Artificial Vision).
 - 📫 How to reach me itougn15@gmail.com, guhs990520@gs.utm.mx, @itougn
 - 💪🏻 Experience in lenguage and technologies: C, C++, C#, Java, Javascript, Typescript, Kotlin, React, React Native, NextJs, Haskell, Python, Node Js.
+![image](https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/d81ced6b-bae0-44a0-a209-4237cc03f977)
+<img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/d81ced6b-bae0-44a0-a209-4237cc03f977" alt="C" width="100"/>
