@@ -20,3 +20,4 @@
   <img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/5b58baf3-b99d-4bdc-a62a-2d755f52fbec" alt="Python" width="50" />
   <img src="https://github.com/SamuelGuerrero/SamuelGuerrero/assets/107590310/87fbb0e0-f214-49f8-a2aa-2eabeefa8df6" alt="Node js" width="50" />
 </p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
