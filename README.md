@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+  <img src="https://myreadme.vercel.app/api/embed/SamuelGuerrero?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGuerrero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamuelGuerrero&theme=juicyfresh&no-bg=true" />
 </p>
