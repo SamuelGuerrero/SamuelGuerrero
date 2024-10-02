@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamuelGuerrero
 - 👀 I’m interested in Code, Football (Cruz Azul, Real Madrid), Music (Indie, Psicodelic Rock, Rock), Classic Cinema, Series.
 - 🌱 I’m currently learning Web Development and Machine Learning (Artificial Vision).
-- 📫 How to reach me itougn15@gmail.com, guhs990520@gs.utm.mx, @itougn
+- 📫 How to reach me itougn15@gmail.com, guhs990520@gs.utm.mx, samuel.guerrero@dynamicore.io, @itougn
 - 💪🏻 Experience in lenguage and technologies: C, C++, C#, Java, Javascript, TypeScript, Kotlin, React, React Native, NextJs, Haskell, Python, Node Js, TensorFlow, Tailwind CSS, .Net.
 
 
