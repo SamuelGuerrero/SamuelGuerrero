@@ -11,5 +11,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGuerrero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelGuerrero&theme=juicyfresh&no-bg=true" />
 </p>
