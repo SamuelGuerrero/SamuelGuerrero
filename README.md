@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code, Football, Music, Classic Cinema, Series.
 - 🌱 I’m currently learning Web Development and Machine Learning (Artificial Vision).
 - 📫 How to reach me itougn15@gmail.com, guhs990520@gs.utm.mx, samuel.guerrero@dynamicore.io, @itougn
-- 💪🏻 Experience in lenguage and technologies: C, C++, C#, Java, JavaScript, TypeScript, CSS, Kotlin, React, React Native, NextJs, Haskell, Python, Node Js, TensorFlow, Keras,PHP, Tailwind CSS, Material UI, .Net.
+- 💪🏻 Experience in lenguage and technologies: C, C++, C#, Java, JavaScript, TypeScript, CSS, Kotlin, React, React Native, NextJs, Haskell, Python, Node Js, TensorFlow, Keras,PHP, Tailwind CSS, Material UI, .Net, AWS.
 
 
 <h3 align="left">Languages and Tools:</h3>
