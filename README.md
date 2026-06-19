@@ -34,14 +34,6 @@ Full-stack developer specialized in AI with 3+ years building web and mobile pro
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 </p>
 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Computer_Vision-0E76A8?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge" alt="Machine Learning" />
-</p>
-
 ---
 
 **Universidad Tecnológica de la Mixteca**  
