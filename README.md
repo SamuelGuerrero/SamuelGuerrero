@@ -28,11 +28,24 @@ Full-stack developer specialized in AI with 3+ years building web and mobile pro
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql&perline=9" />
 </p>
 
-**Cloud & AI**
+**Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,python,tensorflow&perline=9" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&perline=9" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=9" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0E76A8?style=for-the-badge" alt="Computer Vision" />
+</p>
+
 
 ---
 
