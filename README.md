@@ -16,11 +16,24 @@ Full-stack developer specialized in AI with 3+ years building web and mobile pro
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,prisma,postgres,mysql,python,tensorflow,keras,aws,docker,git&perline=9" alt="Core Stack" />
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=9" />
 </p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql&perline=9" />
+</p>
+
+**Cloud & AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,python,tensorflow&perline=9" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
